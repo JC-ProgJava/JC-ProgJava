@@ -7,6 +7,6 @@
 
 [![Years Badge](https://badges.pufler.dev/years/jc-progjava)](https://badges.pufler.dev)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jc-progjava)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=JC-ProgJava&countColor=%23263759)
 
 
