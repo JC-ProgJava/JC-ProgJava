@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-## Stats
-| General Stats | Commit Streak |
-| ------------- | ------------- |
-| [![](https://github-readme-stats.vercel.app/api?username=jc-progjava)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jc-progjava)](https://git.io/streak-stats) |
+You may like my projects: 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JC-ProgJava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Years Badge](https://badges.pufler.dev/years/JC-ProgJava)](https://badges.pufler.dev)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=JC-ProgJava&countColor=%23263759)
-
+- [Building Neural Networks from Scratch](https://github.com/JC-ProgJava/Building-Neural-Networks-From-Scratch) — explores implementing neural networks in Java from scratch.
+- [Handwritten Digit Dataset](https://github.com/JC-ProgJava/Handwritten-Digit-Dataset) — a custom handwritten digits dataset and a data augmentation tool for generating more digits based on your own handwriting.
+- [Syntax Highlighter](https://github.com/JC-ProgJava/SyntaxHighlighter) — a syntax highlighter for Java written in both Java and JS.
+- [Calculator](https://github.com/JC-ProgJava/Calculator) — a colorful console-based calculator based on Pratt parsing.
+- [SmartEditor](https://github.com/JC-ProgJava/SmartEditor.java) — an attempt to create a plain-text editor using Java Swing. 
 
